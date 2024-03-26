@@ -1,0 +1,6 @@
+[submodule "src/server_api_pkg"]
+	path = src/server_api_pkg
+	url = git@github.com:leonard-pak/server_api_pkg.git
+[submodule "src/client_cli_pkg"]
+	path = src/client_cli_pkg
+	url = git@github.com:leonard-pak/client_cli_pkg.git
