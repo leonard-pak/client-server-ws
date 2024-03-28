@@ -4,3 +4,7 @@
 [submodule "src/client_cli_pkg"]
 	path = src/client_cli_pkg
 	url = git@github.com:leonard-pak/client_cli_pkg.git
+[submodule "src/common_msgs_srvs"]
+	path = src/common_msgs_srvs
+	url = git@github.com:leonard-pak/leonard-interfaces.git
+	branch = ros1
